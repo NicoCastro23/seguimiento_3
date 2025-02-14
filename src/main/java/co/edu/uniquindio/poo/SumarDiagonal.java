@@ -1,8 +1,5 @@
 package co.edu.uniquindio.poo;
 
-import java.util.List;
-import java.util.ArrayList;
-
 //10
 public class SumarDiagonal {
 
